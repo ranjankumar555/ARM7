@@ -1,11 +1,14 @@
-# embedded C program list:
-Microcontroller used: 32bit LPC2129 ARM7 TDMI-S.
-### 1. [Delay Generation](https://github.com/ranjankumar555/ARM7/tree/main/delay-generation)
+# Embedded C Program List
+**Microcontroller Used:** 32-bit LPC2129 ARM7 TDMI-S  
 
-This project includes the following features:
-- generate delay for seconds amd milliseconds.
+## 1. [Delay Generation](https://github.com/ranjankumar555/ARM7/tree/main/delay-generation)
+### Prerequisites:
+- **Keil MDK IDE**  
+- **C and Embedded C Programming Knowledge**  
 
-#### conclusion
-Through this program, we can understand that how delay generation is implemented in the real-time project.
+### Features:
+- Generates delays in seconds and milliseconds.  
 
+### Conclusion:
+This program demonstrates how delay generation can be implemented in real-time projects, providing insights into time-based control mechanisms for embedded systems.
 
