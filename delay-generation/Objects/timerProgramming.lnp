@@ -1,8 +1,0 @@
---cpu ARM7TDMI
-".\objects\main.o"
-".\objects\startup.o"
-".\objects\timer.o"
---strict --scatter ".\Objects\timerProgramming.sct"
---summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
---info sizes --info totals --info unused --info veneers
---list ".\Listings\timerProgramming.map" -o .\Objects\timerProgramming.axf
